@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # URL de la API
-BASE_URL="http://localhost:5000/api"
+BASE_URL="https://improved-space-umbrella-w4w7wwj9vvc975w-3001.app.github.dev/api"
+#"http://localhost:5000/api"
 
 # Crear productos con variantes para la tienda Zero Waste
 echo "Creando productos de Zero Waste..."
